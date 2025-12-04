@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "TODOO_List.Controllers.NotesController",
+    "Method": "CreateNote",
+    "RelativePath": "api/Notes/create-note",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "noteDto",
+        "Type": "TODOO_List.Dto.NoteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TODOO_List.Controllers.NotesController",
+    "Method": "DeleteNote",
+    "RelativePath": "api/Notes/delete-note",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TODOO_List.Controllers.NotesController",
+    "Method": "GetAllNote",
+    "RelativePath": "api/Notes/get-all-note",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TODOO_List.Controllers.NotesController",
+    "Method": "GetNoteByTitle",
+    "RelativePath": "api/Notes/get-note",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TODOO_List.Controllers.NotesController",
+    "Method": "UpdateNote",
+    "RelativePath": "api/Notes/update-note",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "noteDto",
+        "Type": "TODOO_List.Dto.NoteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

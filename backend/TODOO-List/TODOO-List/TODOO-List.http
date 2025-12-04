@@ -1,0 +1,6 @@
+@TODOO_List_HostAddress = http://localhost:5195
+
+GET {{TODOO_List_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

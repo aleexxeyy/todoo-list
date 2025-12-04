@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Works\\todoo\\backend\\TODOO-List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4624B0F5-9590-F962-CEAF-369A94584EA0}|TODOO-List\\TODOO-List.csproj|d:\\works\\todoo\\backend\\todoo-list\\todoo-list\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4624B0F5-9590-F962-CEAF-369A94584EA0}|TODOO-List\\TODOO-List.csproj|solutionrelative:todoo-list\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4624B0F5-9590-F962-CEAF-369A94584EA0}|TODOO-List\\TODOO-List.csproj|d:\\works\\todoo\\backend\\todoo-list\\todoo-list\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4624B0F5-9590-F962-CEAF-369A94584EA0}|TODOO-List\\TODOO-List.csproj|solutionrelative:todoo-list\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4624B0F5-9590-F962-CEAF-369A94584EA0}|TODOO-List\\TODOO-List.csproj|d:\\works\\todoo\\backend\\todoo-list\\todoo-list\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4624B0F5-9590-F962-CEAF-369A94584EA0}|TODOO-List\\TODOO-List.csproj|solutionrelative:todoo-list\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Works\\todoo\\backend\\TODOO-List\\TODOO-List\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TODOO-List\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Works\\todoo\\backend\\TODOO-List\\TODOO-List\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TODOO-List\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T21:41:57.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteRepository.cs",
+              "DocumentMoniker": "D:\\Works\\todoo\\backend\\TODOO-List\\TODOO-List\\Repositories\\NoteRepository.cs",
+              "RelativeDocumentMoniker": "TODOO-List\\Repositories\\NoteRepository.cs",
+              "ToolTip": "D:\\Works\\todoo\\backend\\TODOO-List\\TODOO-List\\Repositories\\NoteRepository.cs",
+              "RelativeToolTip": "TODOO-List\\Repositories\\NoteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T20:23:59.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "D:\\Works\\todoo\\backend\\TODOO-List\\TODOO-List\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "TODOO-List\\Controllers\\NotesController.cs",
+              "ToolTip": "D:\\Works\\todoo\\backend\\TODOO-List\\TODOO-List\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "TODOO-List\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:18:49.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
