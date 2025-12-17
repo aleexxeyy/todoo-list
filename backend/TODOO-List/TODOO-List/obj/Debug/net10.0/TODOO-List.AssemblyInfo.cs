@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TODOO-List")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19ba5327a28b2f3164c3ff55252ea9dcf795379f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64a599d3ea228cd1691cdccff6e84698a01a2b81")]
 [assembly: System.Reflection.AssemblyProductAttribute("TODOO-List")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TODOO-List")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
